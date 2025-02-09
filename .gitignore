@@ -39,3 +39,5 @@ app-example
 
 push-app-da8c3-firebase-adminsdk-fbsvc-2cf019985f.json
 google-services.json
+
+android/*
