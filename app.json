@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "push-app",
-    "slug": "push-app",
+    "slug": "pushapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "27b8393d-b8be-4c17-8d6b-1577ca45b5c2"
+      }
+    },
+    "owner": "dbusta0215"
   }
 }
